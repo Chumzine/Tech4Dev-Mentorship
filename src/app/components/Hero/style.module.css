@@ -1,0 +1,23 @@
+section {
+    background-color: #FFFFFF;
+    width: 1440px;
+    height: 772px;
+}
+section .header {
+    display: flex;
+}
+section .nav ul {
+    display: flex;
+    gap: 40px;
+    list-style: none;
+    width: 620px;
+}
+section .nav ul a {
+    text-decoration: none;
+    color: #010101;
+    text-transform: uppercase;
+}
+section .search {
+    display: flex;
+    gap: 20px;
+}

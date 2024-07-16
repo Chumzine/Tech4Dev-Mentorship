@@ -1,0 +1,16 @@
+.btn, .btn-outline, .btn-secondary {
+  border: none;
+  font-size: 12px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.btn-secondary {
+  background-color: #Ed017F;
+  color: #FFFFFF;
+}
+.btn-outline {
+  border: 1px;
+  border-color: #Ed017F;
+  background-color: #FFFFFF;
+}
+
