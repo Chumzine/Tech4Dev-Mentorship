@@ -1,9 +1,10 @@
 import { FaArrowRight } from "react-icons/fa";
+import MoneyGrowth from '../../assets/img/picture.png';
 
 export const Glance = () => {
     return (
         <section>
-            <img src="" alt="" />
+            <img className= {style.pix} src={MoneyGrowth} alt="A shoot with a bank note wrapped aroung its stem" />
             <div>
                 <h3>IPDC AT A GLANCE</h3>
                 <p>IPDC Finance Limited (previously known as "Industrial <br />
