@@ -3,6 +3,7 @@ import Savings from '../../assets/img/Image1.png';
 import SkyDiving from '../../assets/img/Image2.png';
 import PiggyBank from '../../assets/img/Image3.png';
 import Auto from '../../assets/img/Image4.png';
+import style from './style.module.css';
 
 export const IPDCServices = () => {
     return (

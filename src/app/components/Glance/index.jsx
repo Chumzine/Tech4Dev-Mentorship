@@ -1,5 +1,6 @@
 import { FaArrowRight } from "react-icons/fa";
 import MoneyGrowth from '../../assets/img/picture.png';
+import style from './style.module.css';
 
 export const Glance = () => {
     return (
